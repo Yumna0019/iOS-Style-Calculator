@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import './index.css';
 
 function Calculator() {
-  const [result, setResult] = useState("button.name");
+  // const [result, setResult] = useState("button.name");
 
   return (
     <div className="calculator">
