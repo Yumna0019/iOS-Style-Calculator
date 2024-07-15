@@ -8,7 +8,7 @@ Check out the [live demo](https://ios-style-calculator-using-react.netlify.app/)
 
 ## ✨ Features
 
-- **Basic Arithmetic**: Add ➕, subtract ➖, multiply ✖️, and divide ➗  —all the essentials!
+- **Basic Arithmetic**: Add ➕, subtract ➖, multiply ✖️, and divide ➗   —all the essentials!
 - **Advanced Calculations**: Handle decimals and percentages effortlessly.
 - **Stylish Design**: Inspired by the clean, modern look of iOS.
 - **User-Friendly**: Clear display and easy-to-use buttons for a smooth calculation experience.
