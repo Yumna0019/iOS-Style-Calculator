@@ -1,63 +1,58 @@
-Sure, here's a shorter and more fun README:
-
----
-
 # 📱 iOS Style Calculator
 
-![React](https://img.shields.io/badge/React-JS-green)
-![iOS Calculator](https://img.shields.io/badge/iOS-Style-blue)
+Welcome to the **iOS Style Calculator**! This snazzy calculator, built with React, mimics the sleek and intuitive interface of the iOS calculator. Ready to crunch some numbers? Let's go! 🎉
 
-Welcome to the **iOS Style Calculator**! 🎉 This stylish and sleek calculator, built with **React.js**, brings the iOS experience to your web browser. Perfect for quick calculations or just having fun with numbers! 😄
+## 🌐 Live Demo
 
-## 🚀 Features
+Check out the [live demo](https://github.com/Yumna0019/iOS-Style-Calculator) of the iOS Style Calculator!
 
-- **📱 iOS Look**: Sleek and familiar design.
-- **⚡ Fast Performance**: Powered by React.js.
-- **➕ Basic Math**: Addition, subtraction, multiplication, and division.
-- **🔢 Extra Functions**: Percentages, clear, and delete.
-- **📏 Responsive**: Works on all devices.
+## ✨ Features
 
-## 📦 Getting Started
+- **Basic Math**: Addition ➕, subtraction ➖, multiplication ✖️, division ➗
+- **Decimals & Percentages**: Handle decimal numbers and percentage calculations
+- **Sleek Design**: Inspired by the clean look of iOS
 
-1. **Clone the repo:**
+## 🛠️ Technologies Used
+
+- **React**: For building user interfaces
+- **CSS**: For that stylish iOS look
+- **JavaScript**: For calculator logic
+
+## 🧮 Usage
+
+- **Tap** buttons to input numbers and perform calculations
+- **Operators**: Use ➕, ➖, ✖️, ➗ for arithmetic
+- **Equals**: Press `=` to see the result
+- **Clear**: Use the `AC` button to clear the display
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repo**:
 
    ```bash
    git clone https://github.com/Yumna0019/iOS-Style-Calculator.git
+   cd ios-style-calculator
    ```
 
-2. **Install dependencies:**
+2. **Install dependencies**:
 
    ```bash
    npm install
    ```
 
-3. **Run the app:**
+3. **Run the app**:
 
    ```bash
    npm start
    ```
 
-4. **Open in your browser:**
-
-   Go to `http://localhost:3000`.
-
-## 🎮 How to Use
-
-- **➕ Add**: Click `+`
-- **➖ Subtract**: Click `-`
-- **✖️ Multiply**: Click `×`
-- **➗ Divide**: Click `÷`
-- **🔄 Percent**: Click `%`
-- **🔙 Clear**: Click `C`
-- **⬅️ Delete**: Click `⌫`
-- **🟠 Decimal**: Click `.`
-
-## 💬 Connect
-
-- **GitHub**: [Yumna0019](https://github.com/Yumna0019)
+4. **Open in browser**: Go to `http://localhost:3000`
 
 ---
 
-Enjoy your new calculator! If you love it, ⭐ the repo. Happy calculating! 🎉
+Enjoy using the iOS Style Calculator! 
+Happy calculating! 🎉
 
 ---
