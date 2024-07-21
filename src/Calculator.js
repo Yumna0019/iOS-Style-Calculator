@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { evaluate } from 'mathjs';
 import './index.css';
 
 const Calculator = () => {
@@ -22,7 +23,7 @@ const Calculator = () => {
         break;
       case "=":
         try {
-          setResult(String(eval(result.replace("×", "*").replace("÷", "/"))));
+          setResult(String(evaluate(result.replace("×", "*").replace("÷", "/"))));
         } catch {
           setResult("Error");
         }  
