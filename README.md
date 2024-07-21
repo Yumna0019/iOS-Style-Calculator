@@ -4,7 +4,7 @@ Welcome to the **iOS Style Calculator**! 🚀 This cool calculator, built with R
 
 ## 🌐 Live Demo
 
-Check out the [live demo](https://ios-style-calculator-using-react.netlify.app/) of the iOS Style Calculator and see it in action!
+Check out the [live demo](https://ios-style-calc.netlify.app/) of the iOS Style Calculator and see it in action!
 
 ## ✨ Features
 
